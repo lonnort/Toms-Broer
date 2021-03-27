@@ -1,0 +1,6 @@
+          Cell 06 - Address: B8:27:EB:C4:B6:14
+                    Channel:3
+                    Frequency:2.422 GHz (Channel 3)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:on
+                    ESSID:"V1F4AP3"
